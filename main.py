@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-__author__ = 'jinmu333'
+__author__ = 'muwfm'
 
 import threading
 import time
@@ -433,7 +433,7 @@ class Surface(ttk.Frame):
         if (IMAGE_URL == ""):
             tkinter.messagebox.showinfo('提示', '请输入网址！')
             return
-        if (URL_len > 150):
+        if (URL_len > 15000):
             tkinter.messagebox.showinfo('提示', '网址过长！')
             return
         r = requests.get(IMAGE_URL)

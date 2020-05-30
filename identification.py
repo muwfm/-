@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-__author__ = 'jinmu333'
+__author__ = 'muwfm'
 
 import tkinter as tk
 from tkinter import ttk
@@ -231,9 +231,9 @@ class Search(ttk.Frame):
             self.thread_run2 = True
             return
         NAME1 = "localhost"
-        USRE1 = "python"
-        PASS1 = "Python12345@"
-        SQLNAME1 = "chepai"
+        USRE1 = "root"
+        PASS1 = "123456"
+        SQLNAME1 = "chepai1"
         TABLENAME1 = "CARINFO"
         TABLENAME2 = "CARIDE"
         CARPLA1 = self.picre()
@@ -250,9 +250,9 @@ class Search(ttk.Frame):
 
     def sql233(self):
         NAME1 = "localhost"
-        USRE1 = "python"
-        PASS1 = "Python12345@"
-        SQLNAME1 = "chepai"
+        USRE1 = "root"
+        PASS1 = "123456"
+        SQLNAME1 = "chepai1"
         TABLENAME1 = "CARINFO"
         TABLENAME2 = "CARIDE"
         CARPLA1 = self.picre()
@@ -274,9 +274,9 @@ class Search(ttk.Frame):
                 return
 
         NAME1 = "localhost"
-        USRE1 = "python"
-        PASS1 = "Python12345@"
-        SQLNAME1 = "chepai"
+        USRE1 = "root"
+        PASS1 = "123456"
+        SQLNAME1 = "chepai1"
         TABLENAME1 = "CARIDE"
         NAME2 = self.input5.get()
 
@@ -405,7 +405,7 @@ class Search(ttk.Frame):
     def create_sql2(self):
         try:
             # 打开数据库连接
-            db = pymysql.connect("localhost", "python", "Python12345@", "chepai")
+            db = pymysql.connect("localhost", "root", "123456", "chepai1")
         except:
             print("数据库连接失败")
             return

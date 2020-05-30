@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-__author__ = 'jinmu333'
+__author__ = 'muwfm'
 
 import requests
 import os

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-__author__ = 'jinmu333'
+__author__ = 'muwfm'
 
 import tkinter as tk
 from tkinter import ttk
@@ -84,19 +84,19 @@ class Search(ttk.Frame):
     def sql(self):
         self.t.delete(1.0, END)
         NAME1 = self.input0.get() or "localhost"
-        USRE1 = self.input1.get() or "python"
-        PASS1 = self.input2.get() or "Python12345@"
-        SQLNAME1 = self.input3.get() or "chepai"
-        TABLENAME1 = self.input4.get() or "CARINFO"
+        USRE1 = self.input1.get() or "root"
+        PASS1 = self.input2.get() or "123456"
+        SQLNAME1 = self.input3.get() or "chepai1"
+        TABLENAME1 = self.input4.get() or "carinfo"
         self.select_sql(NAME1, USRE1, PASS1, SQLNAME1, TABLENAME1)
 
     def sql2(self):
         self.t.delete(1.0, END)
         NAME1 = self.input0.get() or "localhost"
-        USRE1 = self.input1.get() or "python"
-        PASS1 = self.input2.get() or "Python12345@"
-        SQLNAME1 = self.input3.get() or "chepai"
-        TABLENAME1 = self.input4.get() or "CARINFO"
+        USRE1 = self.input1.get() or "root"
+        PASS1 = self.input2.get() or "123456"
+        SQLNAME1 = self.input3.get() or "chepai1"
+        TABLENAME1 = self.input4.get() or "carinfo"
         CARPLA1 = self.input5.get()
         if (CARPLA1==""):
             tkinter.messagebox.showinfo(title='车牌数据库系统', message='关键字不能为空')

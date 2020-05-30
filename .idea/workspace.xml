@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af9d5fe9-4709-483e-b77a-bbb8be960d19" name="Default Changelist" comment="" />
+    <list default="true" id="af9d5fe9-4709-483e-b77a-bbb8be960d19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/doc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/identification.py" beforeDir="false" afterPath="$PROJECT_DIR$/identification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/img_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/img_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/img_api2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/img_api2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/img_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/img_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/img_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/img_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/img_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/img_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/img_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/img_recognition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/img_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/img_sql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screencut.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screencut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/match.py" beforeDir="false" afterPath="$PROJECT_DIR$/match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_sql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cut.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cut.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cut1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cut1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cut2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cut2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/img_contours.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/img_contours.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/url.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/url.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/url1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/url1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/url2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/url2.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +38,38 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_PlateRecogntion-master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\python_PlateRecogntion-master\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1X14bx7qAQ7pm56vdsCxokCfGLU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,22 +77,70 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git_file/test" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="F:/python" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_PlateRecogntion-master\pic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.login">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python_PlateRecogntion-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img_math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_PlateRecogntion-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/img_math.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_PlateRecogntion-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -48,7 +149,7 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -70,14 +171,14 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_PlateRecogntion-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,9 +191,31 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/match.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_PlateRecogntion-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -101,9 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.login" />
-        <item itemvalue="Python.search" />
+        <item itemvalue="Python.search_sql" />
+        <item itemvalue="Python.match" />
+        <item itemvalue="Python.img_math" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -135,47 +260,184 @@
       <workItem from="1580378238924" duration="11000" />
       <workItem from="1581166073106" duration="1084000" />
       <workItem from="1581167200476" duration="2726000" />
-      <workItem from="1581507880348" duration="755000" />
+      <workItem from="1581507880348" duration="2013000" />
+      <workItem from="1585807972837" duration="3197000" />
+      <workItem from="1585811189551" duration="4284000" />
+      <workItem from="1585817636865" duration="927000" />
+      <workItem from="1585818650650" duration="179000" />
+      <workItem from="1585818857564" duration="1621000" />
+      <workItem from="1585821122754" duration="3000" />
+      <workItem from="1585822696400" duration="136000" />
+      <workItem from="1585832502460" duration="4430000" />
+      <workItem from="1585837992038" duration="624000" />
+      <workItem from="1585875992679" duration="4824000" />
+      <workItem from="1585880858795" duration="5074000" />
+      <workItem from="1587373167035" duration="180000" />
+      <workItem from="1587534003947" duration="2000" />
+      <workItem from="1588149715532" duration="209000" />
+      <workItem from="1589809056969" duration="5033000" />
+      <workItem from="1589814843397" duration="590000" />
+      <workItem from="1589885502526" duration="274000" />
+      <workItem from="1589951551872" duration="4792000" />
+      <workItem from="1589965951734" duration="19000" />
+      <workItem from="1589979386922" duration="482000" />
+      <workItem from="1590051390379" duration="2251000" />
+      <workItem from="1590073452110" duration="599000" />
+      <workItem from="1590206907680" duration="10743000" />
+      <workItem from="1590249341175" duration="692000" />
+      <workItem from="1590505841822" duration="1433000" />
+      <workItem from="1590592282321" duration="2231000" />
+      <workItem from="1590637016117" duration="3102000" />
+      <workItem from="1590642040531" duration="3549000" />
+      <workItem from="1590681850675" duration="133000" />
+      <workItem from="1590682175390" duration="2692000" />
+      <workItem from="1590685203398" duration="886000" />
+      <workItem from="1590720697337" duration="1674000" />
+      <workItem from="1590741266133" duration="646000" />
+      <workItem from="1590742106142" duration="455000" />
+      <workItem from="1590745716431" duration="124000" />
+      <workItem from="1590746094662" duration="7000" />
+      <workItem from="1590746691480" duration="80000" />
+      <workItem from="1590747349372" duration="35000" />
+      <workItem from="1590747704163" duration="87000" />
+      <workItem from="1590749938134" duration="40000" />
+      <workItem from="1590815728602" duration="201000" />
+      <workItem from="1590840916499" duration="107000" />
+      <workItem from="1590848020873" duration="489000" />
+      <workItem from="1590848540248" duration="488000" />
     </task>
+    <task id="LOCAL-00001" summary="基于python的车牌识别系统">
+      <created>1581508965147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581508965147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基于python的车牌识别系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="基于python的车牌识别系统" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="125" key="FileChooserDialogImpl" timestamp="1581508440674">
+    <state x="1011" y="436" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589809074882">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1011" y="436" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1589809074882" />
+    <state x="608" y="336" key="FileChooserDialogImpl" timestamp="1588149832492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="486" y="269" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585837244360" />
+    <state x="608" y="336" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588149832492" />
+    <state width="1867" height="349" key="GridCell.Tab.0.bottom" timestamp="1590641287182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1207" height="197" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585811104383" />
+    <state width="1867" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287182" />
+    <state width="1850" height="322" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1589815252257" />
+    <state width="1867" height="349" key="GridCell.Tab.0.center" timestamp="1590641287181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1207" height="197" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585811104383" />
+    <state width="1867" height="349" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287181" />
+    <state width="1850" height="322" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1589815252257" />
+    <state width="1867" height="349" key="GridCell.Tab.0.left" timestamp="1590641287181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1207" height="197" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585811104383" />
+    <state width="1867" height="349" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287181" />
+    <state width="1850" height="322" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1589815252257" />
+    <state width="1867" height="349" key="GridCell.Tab.0.right" timestamp="1590641287182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1207" height="197" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585811104383" />
+    <state width="1867" height="349" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287182" />
+    <state width="1850" height="322" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1589815252257" />
+    <state width="1867" height="349" key="GridCell.Tab.1.bottom" timestamp="1590641287182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="349" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287182" />
+    <state width="1867" height="349" key="GridCell.Tab.1.center" timestamp="1590641287182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="349" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287182" />
+    <state width="1867" height="349" key="GridCell.Tab.1.left" timestamp="1590641287182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="349" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287182" />
+    <state width="1867" height="349" key="GridCell.Tab.1.right" timestamp="1590641287182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="349" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590641287182" />
+    <state x="89" y="196" key="NewModule_or_Project.wizard" timestamp="1585837273034">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="125" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581508440674" />
-    <state width="1259" height="221" key="GridCell.Tab.0.bottom" timestamp="1581169931107">
+    <state x="89" y="196" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1585837273034" />
+    <state x="623" y="202" key="RollbackChangesDialog" timestamp="1590683454072">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="742" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580202376352" />
-    <state width="1259" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581169931107" />
-    <state width="1259" height="221" key="GridCell.Tab.0.center" timestamp="1581169931107">
+    <state x="623" y="202" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590683454072" />
+    <state x="311" y="4" width="1013" height="838" key="SettingsEditor" timestamp="1590746769662">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="742" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580202376352" />
-    <state width="1259" height="221" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581169931107" />
-    <state width="1259" height="221" key="GridCell.Tab.0.left" timestamp="1581169931107">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="742" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580202376351" />
-    <state width="1259" height="221" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581169931107" />
-    <state width="1259" height="221" key="GridCell.Tab.0.right" timestamp="1581169931107">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="742" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580202376352" />
-    <state width="1259" height="221" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581169931107" />
-    <state x="293" y="14" width="1013" height="850" key="SettingsEditor" timestamp="1581508696527">
+    <state x="82" y="26" width="1013" height="838" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585836034426" />
+    <state x="311" y="4" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1590746769662" />
+    <state x="415" y="5" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1589809349986" />
+    <state x="293" y="57" width="841" height="836" key="dock-window-1" timestamp="1585814927504">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="293" y="14" width="1013" height="850" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1581508696527" />
-    <state x="311" y="4" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581166363269" />
+    <state x="293" y="57" width="841" height="836" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1585814927504" />
+    <state x="680" y="205" width="746" height="671" key="find.popup" timestamp="1590643418118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="680" y="205" width="746" height="671" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590643418118" />
+    <state x="907" y="273" width="746" height="894" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1590208290440" />
+    <state x="215" y="85" width="1598" height="768" key="new project wizard" timestamp="1590246392342">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="161" y="64" width="1598" height="768" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1588149922135" />
+    <state x="215" y="85" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1590246392342" />
+    <state x="881" y="204" width="840" height="848" key="search.everywhere.popup" timestamp="1585883579920">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="705" y="163" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585808915865" />
+    <state x="881" y="204" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585883579920" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_PlateRecogntion_master$main.coverage" NAME="main Coverage Results" MODIFIED="1581169907118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_PlateRecogntion_master$search.coverage" NAME="search Coverage Results" MODIFIED="1581169274281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_PlateRecogntion_master$login.coverage" NAME="login Coverage Results" MODIFIED="1581169289969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_PlateRecogntion_master$main.coverage" NAME="main Coverage Results" MODIFIED="1585809121197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_PlateRecogntion_master$search.coverage" NAME="search Coverage Results" MODIFIED="1589815245022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_PlateRecogntion_master$login.coverage" NAME="login Coverage Results" MODIFIED="1590641279472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
-__author__ = 'jinmu333'
+__author__ = 'muwfm'
 
 import tkinter as tk
 from tkinter import ttk
@@ -10,11 +10,10 @@ from PIL import Image, ImageTk
 import os
 import lib.img_sql as img_sql
 
-
 class Login(ttk.Frame):
     thread_run = False
     img_sql.create_signsql()
-
+    ##如果变量定义在类的方法下面，如果加了self，那这个变量就是类实例的属性，不是类的属性；如果没有加self，这个变量只是这个方法的局部变量，既不是类的属性也不是类实例的属性
     def __init__(self, win):
         ttk.Frame.__init__(self, win)
         frame0 = ttk.Frame(self)
@@ -29,7 +28,7 @@ class Login(ttk.Frame):
         self.tkImage = ImageTk.PhotoImage(image=self.pilImage)
         self.image233 = tk.Label(win, image=self.tkImage)
         self.image233.pack(side=TOP)
-
+        ##将小部件放置到主窗口中
         frame0.pack(side=TOP, fill=tk.Y, expand=1)
         frame1.pack(side=TOP, fill=tk.Y, expand=1)
         frame2.pack(side=TOP, fill=tk.Y, expand=1)
@@ -58,12 +57,14 @@ class Login(ttk.Frame):
         self.pack(fill=tk.BOTH, expand=tk.YES, padx="10", pady="10")
 
     def center_window(self):
+        ##获取屏幕高和宽
         screenwidth = log.winfo_screenwidth()
         screenheight = log.winfo_screenheight()
         log.update()
         width = log.winfo_width()
         height = log.winfo_height()
         size = '+%d+%d' % ((screenwidth - width)/2, (screenheight - height)/2)
+        ##geometry设置大小和位置
         log.geometry(size)
 
     def change(self):
@@ -120,15 +121,15 @@ class Login(ttk.Frame):
             # close_window()
             log.state('icon')
             if self.t1 == "登录到车牌 识别 系统":
-                os.system("python3 ./main.py")
+                os.system("python ./main.py")
             elif self.t1 == "登录到车牌 对比 系统":
-                os.system("python3 ./match.py")
+                os.system("python ./match.py")
             elif self.t1 == "登录到车牌 搜索 系统":
-                os.system("python3 ./search.py")
+                os.system("python ./search.py")
             elif self.t1 == "登录到车牌 数据库搜索 系统":
-                os.system("python3 ./search_sql.py")
+                os.system("python ./search_sql.py")
             elif self.t1 == "登录到车牌 认证 系统":
-                os.system("python3 ./identification.py")
+                os.system("python ./identification.py")
             log.state('normal')
         else:
             tkinter.messagebox.showinfo(title='车牌识别管理系统', message='密码错误')

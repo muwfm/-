@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-__author__ = 'jinmu333'
 
 import xlrd
 import xlwt
@@ -19,8 +18,8 @@ def create_excel():
     w_sheet = w.add_sheet('1')
     alignment = xlwt.Alignment() #创建居中
     style = xlwt.XFStyle() # 创建样式
-    alignment.horz = xlwt.Alignment.HORZ_CENTER
-    alignment.vert = xlwt.Alignment.VERT_CENTER
+    alignment.horz = xlwt.Alignment.HORZ_CENTER#水平方向
+    alignment.vert = xlwt.Alignment.VERT_CENTER#竖直方向
     style.alignment = alignment # 给样式添加文字居中属性
     tall_style = xlwt.easyxf('font:height 720')  # 36pt
     first_row = w_sheet.row(0)

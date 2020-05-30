@@ -9,6 +9,7 @@ def sql(TIME, COLOR1, TEXT1, COLOR2, TEXT2, API, SOURCE):
     try:
         # 打开数据库连接
         db = pymysql.connect("localhost", "root", "123456", "chepai1")
+        print("数据库连接成功")
     except:
         print("数据库连接失败")
         return
@@ -19,7 +20,7 @@ def sql(TIME, COLOR1, TEXT1, COLOR2, TEXT2, API, SOURCE):
     sql = "INSERT INTO CARINFO(TIME, \
        COLOR1, TEXT1, COLOR2, TEXT2, API, SOURCE) \
        VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s')" % \
-        (TIME, COLOR1, TEXT1, COLOR2, TEXT2, API, SOURCE)
+          (TIME, COLOR1, TEXT1, COLOR2, TEXT2, API, SOURCE)
 
     try:
         # 执行sql语句
